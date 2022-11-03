@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deploy NGINX infrastructure using Terraform on Nginx Experience</title>
+    <link>/020_terraform/</link>
+    <description>Recent content in Deploy NGINX infrastructure using Terraform on Nginx Experience</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jul 2020 14:37:59 +0300</lastBuildDate><atom:link href="/020_terraform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terraform Apply</title>
+      <link>/020_terraform/010_terraform_apply_1/</link>
+      <pubDate>Wed, 08 Jul 2020 14:37:59 +0300</pubDate>
+      
+      <guid>/020_terraform/010_terraform_apply_1/</guid>
+      <description>All configuration and management of the infrastructure will be done from the Jumphost.
+SSH into the Jumphost.
+  Watch the terraform deployment status.
+  tail -f startup/startup.logWhen the the ALL IS DONE message will appear in the logs you can continue.</description>
+    </item>
+    
+    <item>
+      <title>AWS EKS</title>
+      <link>/020_terraform/020_eks_1/</link>
+      <pubDate>Wed, 08 Jul 2020 14:37:59 +0300</pubDate>
+      
+      <guid>/020_terraform/020_eks_1/</guid>
+      <description>While you wait, you can review the Introduction section of the AWS EKS Workshop to learn about Kubernetes and Amazon EKS basics.
+Managed control plane Amazon EKS provides a scalable and highly-available control plane that runs across multiple AWS availability zones. The Amazon EKS service automatically manages the availability and scalability of the Kubernetes API servers and the etcd persistence layer for each cluster. Amazon EKS runs the Kubernetes control plane across three Availability Zones in order to ensure high availability, and it automatically detects and replaces unhealthy masters.</description>
+    </item>
+    
+    <item>
+      <title>EKS Verification</title>
+      <link>/020_terraform/030_eks_verification_1/</link>
+      <pubDate>Wed, 08 Jul 2020 14:37:59 +0300</pubDate>
+      
+      <guid>/020_terraform/030_eks_verification_1/</guid>
+      <description> Check and see that our cluster is up an running.
+Below we should see our two K8s worker nodes:  kubectl get nodesOutput
+NAME STATUS ROLES AGE VERSIONip-10-0-3-204.eu-central-1.compute.internal Ready &amp;lt;none&amp;gt; 100s v1.19.6-eks-49a6c0  Go to the lab directory  cd lab</description>
+    </item>
+    
+  </channel>
+</rss>

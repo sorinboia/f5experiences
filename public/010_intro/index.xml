@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro to the workshop on Nginx Experience</title>
+    <link>/010_intro/</link>
+    <description>Recent content in Intro to the workshop on Nginx Experience</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jul 2020 14:11:17 +0300</lastBuildDate><atom:link href="/010_intro/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
