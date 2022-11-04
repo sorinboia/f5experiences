@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Nginx Experience"
+title = "F5 experiences"
 sectionPagesMenu = "main"
 relativeURLs = true
 googleAnalytics = "UA-177908951-1"
@@ -9,9 +9,9 @@ theme = "learn"
 home = [ "HTML", "RSS", "JSON"]
 
 [params]
-themeVariant = "green"
+themeVariant = "red"
 author = "Sorin Boiangiu"
-description = "Nginx experience on AWS"
+description = "F5 experiences"
 
 [deployment]
 # By default, files are uploaded in an arbitrary order.
@@ -24,4 +24,4 @@ order = [".jpg$", ".gif$"]
 
 name = "AWS_S3_deployment"
 
-URL = "s3://udf.nginx-experience.com?region=eu-central-1"
+URL = "s3://f5experiences.nginx-experience.com?region=eu-central-1"
