@@ -1,9 +1,9 @@
 +++
 title = "Experiences"
 menuTitle = "Experiences"
-weight = 20
+weight = 30
 chapter = true
-pre = "<b>2. </b>"
+pre = "<b>3. </b>"
 +++
 
 Please click on the F5 Experience that you are attending and follow the instructions

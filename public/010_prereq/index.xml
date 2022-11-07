@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pre requisites on F5 experiences</title>
+    <link>/010_prereq/</link>
+    <description>Recent content in Pre requisites on F5 experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jul 2020 14:11:17 +0300</lastBuildDate><atom:link href="/010_prereq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>F5 Account creation</title>
+      <link>/010_prereq/010_f5account/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/010_prereq/010_f5account/</guid>
+      <description>Creating an F5 account before attending any of the experience is mandatory.
+This needs to be a personal account and not a shared one. If you already have one you can skip the account creation.
+The steps bellow describe how to create a new F5 account.
+If you have any issues please contact you workshop host.
+ Go to the the F5 account registration page and fill in the requested information  After finishing the previous step you should have received an email requesting account activation.</description>
+    </item>
+    
+    <item>
+      <title>Accessing the UDF environment</title>
+      <link>/010_prereq/020_lab_env/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/010_prereq/020_lab_env/</guid>
+      <description>Unified Demonstration Framework or in short UDF is a tool developed and maintained by the F5 UDF Team for creating reusable, maintainable, and shareable environments of F5 products. Its main purpose is to facilitate collaboration and the sharing of knowledge among subject-matter experts and allow others to easily benefit from that knowledge.
+UDF is how we are going to access our workshop environment.
+ You should have recevied an email from UDF with instructions on how to access the course.</description>
+    </item>
+    
+  </channel>
+</rss>
