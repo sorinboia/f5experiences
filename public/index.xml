@@ -19,6 +19,17 @@ Publishing an application  Expose the workshop application through F5XC cloud Ob
     </item>
     
     <item>
+      <title>Accessing the UDF environment</title>
+      <link>/015_howto/010_lab_env/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/015_howto/010_lab_env/</guid>
+      <description>Unified Demonstration Framework or in short UDF is a tool developed and maintained by the F5 UDF Team for creating reusable, maintainable, and shareable environments of F5 products. Its main purpose is to facilitate collaboration and the sharing of knowledge among subject-matter experts and allow others to easily benefit from that knowledge.
+UDF is how we are going to access our workshop environment.
+ You should have recevied an email from UDF with instructions on how to access the course.</description>
+    </item>
+    
+    <item>
       <title>F5 Account creation</title>
       <link>/010_prereq/010_f5account/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,17 +51,6 @@ If you have any issues please contact you workshop host.
       <description>In this workshop you will experience how to deploy your application in an agile way, using NGINX utilizing AWS compute, applying all the application services needed, such as service mesh, API management and web application firewall in a fully automated way.
 Deploy NGINX infrastructure using Terraform Start by using automation and use Infrastructure as Code concepts to deploy the environment.
 Increase availability, security and application performance with Kubernetes Nginx Ingress  Monitor the application performance, discover issues and improve performance Authenticate users with OpenID Connect and offload authentication processes from the application to Nginx Zero Trust - Applying Mutual TLS authentication with NGINX  Serive Mesh  Trace your application functions within the mesh Secure the interservice communication  Security Secure you application with Nginx App Protect Web Application Firewall.</description>
-    </item>
-    
-    <item>
-      <title>Accessing the UDF environment</title>
-      <link>/010_prereq/020_lab_env/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/010_prereq/020_lab_env/</guid>
-      <description>Unified Demonstration Framework or in short UDF is a tool developed and maintained by the F5 UDF Team for creating reusable, maintainable, and shareable environments of F5 products. Its main purpose is to facilitate collaboration and the sharing of knowledge among subject-matter experts and allow others to easily benefit from that knowledge.
-UDF is how we are going to access our workshop environment.
- You should have recevied an email from UDF with instructions on how to access the course.</description>
     </item>
     
   </channel>

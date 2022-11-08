@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to on F5 experiences</title>
+    <link>/015_howto/</link>
+    <description>Recent content in How to on F5 experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jul 2020 14:11:17 +0300</lastBuildDate><atom:link href="/015_howto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessing the UDF environment</title>
+      <link>/015_howto/010_lab_env/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/015_howto/010_lab_env/</guid>
+      <description>Unified Demonstration Framework or in short UDF is a tool developed and maintained by the F5 UDF Team for creating reusable, maintainable, and shareable environments of F5 products. Its main purpose is to facilitate collaboration and the sharing of knowledge among subject-matter experts and allow others to easily benefit from that knowledge.
+UDF is how we are going to access our workshop environment.
+ You should have recevied an email from UDF with instructions on how to access the course.</description>
+    </item>
+    
+  </channel>
+</rss>

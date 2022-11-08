@@ -21,18 +21,18 @@
 	"content": "The next sections will guide you on all the pre-requisites that are needed before attending any F5 experience. Please make sure you read them carefully.\n"
 },
 {
+	"uri": "/015_howto/010_lab_env/",
+	"title": "Accessing the UDF environment",
+	"tags": [],
+	"description": "",
+	"content": "Unified Demonstration Framework or in short UDF is a tool developed and maintained by the F5 UDF Team for creating reusable, maintainable, and shareable environments of F5 products. Its main purpose is to facilitate collaboration and the sharing of knowledge among subject-matter experts and allow others to easily benefit from that knowledge.\nUDF is how we are going to access our workshop environment.\n You should have recevied an email from UDF with instructions on how to access the course.\nClick the marked linked and follow the steps to login with your F5 Account  After loging in click the \u0026ldquo;Join\u0026rdquo; button and you are done.\nFurther instructions are specific to each experience and will be provided by your host or explained in the Experiences section  "
+},
+{
 	"uri": "/010_prereq/010_f5account/",
 	"title": "F5 Account creation",
 	"tags": [],
 	"description": "",
 	"content": "Creating an F5 account before attending any of the experience is mandatory.\nThis needs to be a personal account and not a shared one. If you already have one you can skip the account creation.\nThe steps bellow describe how to create a new F5 account.\nIf you have any issues please contact you workshop host.\n Go to the the F5 account registration page and fill in the requested information  After finishing the previous step you should have received an email requesting account activation. Check you email inbox and click the activation link, provide the account information and complete the registration  By now you should have been able to create and verify your F5 account.  "
-},
-{
-	"uri": "/020_experiences/",
-	"title": "Experiences",
-	"tags": [],
-	"description": "",
-	"content": "Please click on the F5 Experience that you are attending and follow the instructions\n"
 },
 {
 	"uri": "/020_experiences/020_nginx/",
@@ -42,11 +42,18 @@
 	"content": "In this workshop you will experience how to deploy your application in an agile way, using NGINX utilizing AWS compute, applying all the application services needed, such as service mesh, API management and web application firewall in a fully automated way.\nDeploy NGINX infrastructure using Terraform Start by using automation and use Infrastructure as Code concepts to deploy the environment.\nIncrease availability, security and application performance with Kubernetes Nginx Ingress  Monitor the application performance, discover issues and improve performance Authenticate users with OpenID Connect and offload authentication processes from the application to Nginx Zero Trust - Applying Mutual TLS authentication with NGINX  Serive Mesh  Trace your application functions within the mesh Secure the interservice communication  Security Secure you application with Nginx App Protect Web Application Firewall.\n Protect you application from fraudulent interactions and separate legitimate traffic from unwanted one Block unwanted Bot traffic to your application  In order to access the workshop documentation follow this link\n"
 },
 {
-	"uri": "/010_prereq/020_lab_env/",
-	"title": "Accessing the UDF environment",
+	"uri": "/015_howto/",
+	"title": "How to",
 	"tags": [],
 	"description": "",
-	"content": "Unified Demonstration Framework or in short UDF is a tool developed and maintained by the F5 UDF Team for creating reusable, maintainable, and shareable environments of F5 products. Its main purpose is to facilitate collaboration and the sharing of knowledge among subject-matter experts and allow others to easily benefit from that knowledge.\nUDF is how we are going to access our workshop environment.\n You should have recevied an email from UDF with instructions on how to access the course.\nClick the marked linked and follow the steps to login with your F5 Account  After loging in click the \u0026ldquo;Join\u0026rdquo; button and you are done.\nFurther instructions are specific to each experience and will be provided by your host or explained in the Experiences section  "
+	"content": "First time attending an F5 Experience ? The \u0026ldquo;How to\u0026rdquo; section will help you out to navigate the workshop environment.\n"
+},
+{
+	"uri": "/020_experiences/",
+	"title": "Experiences",
+	"tags": [],
+	"description": "",
+	"content": "Please click on the F5 Experience that you are attending and follow the instructions\n"
 },
 {
 	"uri": "/categories/",

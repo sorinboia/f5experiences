@@ -20,16 +20,5 @@ If you have any issues please contact you workshop host.
  Go to the the F5 account registration page and fill in the requested information  After finishing the previous step you should have received an email requesting account activation.</description>
     </item>
     
-    <item>
-      <title>Accessing the UDF environment</title>
-      <link>/010_prereq/020_lab_env/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/010_prereq/020_lab_env/</guid>
-      <description>Unified Demonstration Framework or in short UDF is a tool developed and maintained by the F5 UDF Team for creating reusable, maintainable, and shareable environments of F5 products. Its main purpose is to facilitate collaboration and the sharing of knowledge among subject-matter experts and allow others to easily benefit from that knowledge.
-UDF is how we are going to access our workshop environment.
- You should have recevied an email from UDF with instructions on how to access the course.</description>
-    </item>
-    
   </channel>
 </rss>
