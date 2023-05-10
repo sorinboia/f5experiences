@@ -26,4 +26,4 @@ Start by using automation and use Infrastructure as Code concepts to deploy the 
 
 <br>
 
-In order to access the workshop documentation follow **[this link](https://udf.nginx-experience.com/)**
+In order to access the workshop documentation follow **[this link](http://udf.nginx-experience.com/)**

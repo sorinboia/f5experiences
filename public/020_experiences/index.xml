@@ -13,9 +13,10 @@
       <pubDate>Wed, 08 Jul 2020 14:37:59 +0300</pubDate>
       
       <guid>/020_experiences/010_f5xc/</guid>
-      <description>Welcome to the F5 Distributed Cloud Services ( F5XC ) workshop .
+      <description>
+Welcome to the F5 Distributed Cloud Services ( F5XC ) workshop .
 During the wokshop you will experience the infrastructe and security capabilities of F5XC that can help you easily and quickly pubilsh and secure your applications.
-Publishing an application  Expose the workshop application through F5XC cloud Observe the incresed visibility into the app performance and behaviour  Security  Enable best of bread Web Application Firewall Discover and Protect your APIs Don&amp;rsquo;t let the Bots impact your business  Deploy and Secure anywhere  Load balance and secure the internal servers Decrese latency to your app Expand your application and provide multicloud connectivity  Kubernetes everywhere  Deploy app components in the F5XC distributed Kubernetes environment  Accessing the lab guide  After logging into the UDF course follow the steps described bellow  If when trying to open the lab guide you receive a 500 error message have no worries, your guide is being baked, it takes around 8 minutes and it will look like the bellow image  </description>
+Publishing an application Expose the workshop application through F5XC cloud Observe the incresed visibility into the app performance and behaviour Security Enable best of bread Web Application Firewall Discover and Protect your APIs Don&amp;rsquo;t let the Bots impact your business Deploy and Secure anywhere Load balance and secure the internal servers Decrese latency to your app Expand your application and provide multicloud connectivity Kubernetes everywhere Deploy app components in the F5XC distributed Kubernetes environment Accessing the lab guide After logging into the UDF course follow the steps described bellow If when trying to open the lab guide you receive a 500 error message have no worries, your guide is being baked, it takes around 8 minutes and it will look like the bellow image </description>
     </item>
     
     <item>
@@ -26,7 +27,7 @@ Publishing an application  Expose the workshop application through F5XC cloud Ob
       <guid>/020_experiences/020_nginx/</guid>
       <description>In this workshop you will experience how to deploy your application in an agile way, using NGINX utilizing AWS compute, applying all the application services needed, such as service mesh, API management and web application firewall in a fully automated way.
 Deploy NGINX infrastructure using Terraform Start by using automation and use Infrastructure as Code concepts to deploy the environment.
-Increase availability, security and application performance with Kubernetes Nginx Ingress  Monitor the application performance, discover issues and improve performance Authenticate users with OpenID Connect and offload authentication processes from the application to Nginx Zero Trust - Applying Mutual TLS authentication with NGINX  Serive Mesh  Trace your application functions within the mesh Secure the interservice communication  Security Secure you application with Nginx App Protect Web Application Firewall.</description>
+Increase availability, security and application performance with Kubernetes Nginx Ingress Monitor the application performance, discover issues and improve performance Authenticate users with OpenID Connect and offload authentication processes from the application to Nginx Zero Trust - Applying Mutual TLS authentication with NGINX Serive Mesh Trace your application functions within the mesh Secure the interservice communication Security Secure you application with Nginx App Protect Web Application Firewall.</description>
     </item>
     
   </channel>
